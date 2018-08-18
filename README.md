@@ -20,3 +20,7 @@ Terminal=false
 Type=Application
 
 save and set owner and chmod of this file,then it will searched by value of Name={value}
+
+
+
+save.
