@@ -20,7 +20,10 @@ Terminal=false
 Type=Application
 
 save and set owner and chmod of this file,then it will searched by value of Name={value}
+<<<<<<< HEAD
 
 
 
 save.
+=======
+>>>>>>> parent of cdd619f... PY-2018.2.1 <lee@DESKTOP-6UNVBQC Overwrite remote https://github.com/charismafight/config_of_IDEs to local
