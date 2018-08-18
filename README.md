@@ -19,4 +19,8 @@ Icon=/home/lee/idea-IU-181.4445.78/bin/idea.png
 Terminal=false
 Type=Application
 
+<<<<<<< HEAD
 save and set owner and chmod of this file,then it will searched by value of Name={value}
+=======
+save and set owner and chmod of this file,then it will searched by value of Name={value}
+>>>>>>> parent of cdd619f... PY-2018.2.1 <lee@DESKTOP-6UNVBQC Overwrite remote https://github.com/charismafight/config_of_IDEs to local
